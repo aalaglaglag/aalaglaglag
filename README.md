@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Giovanni
+#### I'm currently learning python and trying to learn other things like aws
 
 <!--
 **aalaglaglag/aalaglaglag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="center">
+ <p align="right">
   <img windth="470" height="180" src="https://github.com/aalaglaglag/aalaglaglag/blob/main/tenor.gif">
