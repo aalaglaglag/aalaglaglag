@@ -1,5 +1,5 @@
 ### Hi there, my name is Giovanni
-#### I'm currently learning python and trying to learn other things as CSS and Javascript
+#### I'm currently learning java
 
 <!--
 **aalaglaglag/aalaglaglag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
