@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="right">
-  <img windth="470" height="180" src="https://github.com/aalaglaglag/aalaglaglag/blob/main/tenor.gif">
+
